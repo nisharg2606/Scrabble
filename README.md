@@ -1,6 +1,6 @@
 # Scrabble
 
-This Repo is for making Scrabble game. Please See these [PPT](https://drive.google.com/open?id=1FNwtgogadEQDWEKhIVq2P8qToCxcWsjp) for understanding algorithm and working model.
+This Repo is for making Scrabble game. Please See this [PPT](https://drive.google.com/open?id=1FNwtgogadEQDWEKhIVq2P8qToCxcWsjp) for understanding algorithm and working model.
 
 ![](demo.gif)
 
